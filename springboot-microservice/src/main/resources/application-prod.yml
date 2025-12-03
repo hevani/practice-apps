@@ -1,4 +1,0 @@
-server:
-  port: 8080
-app:
-  message: "Hello from prod profile"
